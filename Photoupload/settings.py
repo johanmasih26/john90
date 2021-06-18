@@ -26,7 +26,7 @@ SECRET_KEY = '&cwd@_7*0^w78&4v+3#&=m6ge_-0fwb(cnp8^=3cq%d@oo!jj^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['photo-cli.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['john90.herokuapp.com','127.0.0.1']
 
 
 # Application definition
